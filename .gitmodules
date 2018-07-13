@@ -1,0 +1,3 @@
+[submodule "reddit-test"]
+	path = reddit-test
+	url = https://github.com/man27382210/reddit-test
